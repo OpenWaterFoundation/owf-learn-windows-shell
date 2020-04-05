@@ -1,4 +1,4 @@
-# owf-learn-linux-shell #
+# owf-learn-windows-shell #
 
 This repository contains the [Open Water Foundation (OWF)](http://openwaterfoundation.org/) Windows shell learning resources,
 which provide guidance for creating and using Windows shell and batch files.
