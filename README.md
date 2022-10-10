@@ -1,10 +1,10 @@
 # owf-learn-windows-shell #
 
-This repository contains the [Open Water Foundation (OWF)](http://openwaterfoundation.org/) Windows shell learning resources,
+This repository contains the [Open Water Foundation (OWF)](https://openwaterfoundation.org/) Windows shell learning resources,
 which provide guidance for creating and using Windows shell and batch files.
 The documentation is written for the layperson in order to encourage effective use of Widows shell and  batch files.
 
-See the deployed [OWF / Learn Windows Shell](http://learn.openwaterfoundation.org/owf-learn-windows-shell/) documentation.
+See the deployed [OWF / Learn Windows Shell](https://learn.openwaterfoundation.org/owf-learn-windows-shell/) documentation.
 
 ## Repository Contents ##
 
@@ -27,7 +27,7 @@ mkdocs-project/       Typical MkDocs project for this documentation.
 
 The development environment for contributing to this project requires installation of Python, MkDocs, and Material MkDocs theme.
 Python 3 has been used for development.
-See the [`OWF Learn MkDocs`](http://learn.openwaterfoundation.org/owf-learn-mkdocs/)
+See the [`OWF Learn MkDocs`](https://learn.openwaterfoundation.org/owf-learn-mkdocs/)
 documentation for information about installing these tools.
 
 This documentation has been prepared using Windows 10, but should apply to other Windows versions.
@@ -72,4 +72,4 @@ provide in-line table of contents on pages, where appropriate, to facilitate rev
 
 ## Maintainers ##
 
-This repository is maintained by the [Open Water Foundation](http://openwaterfoundation.org/).
+This repository is maintained by the [Open Water Foundation](https://openwaterfoundation.org/).
