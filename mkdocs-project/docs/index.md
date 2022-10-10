@@ -13,8 +13,8 @@ In some cases, it may make sense to call a Linux shell script from a Windows bat
 for example if programming equivalent functionality in a batch file is challenging.
 See the following resources:
 
-* Open Water Foundation [Learn / Linux Shell](http://learn.openwaterfoundation.org/owf-learn-linux-shell/) learning resources
-* Open Water Foundation [Learn / Cygwin](http://learn.openwaterfoundation.org/owf-learn-cygwin/) learning resources
+* Open Water Foundation [Learn / Linux Shell](https://learn.openwaterfoundation.org/owf-learn-linux-shell/) learning resources
+* Open Water Foundation [Learn / Cygwin](https://learn.openwaterfoundation.org/owf-learn-cygwin/) learning resources
 
 Windows batch files are useful for memorializing processing workflows and automating repetitive tasks on Windows computers.
 The Windows command shell program  has been available on many generations of personal computers and
@@ -46,13 +46,13 @@ This documentation has been written based on experience using the Windows shell 
 
 ## About the Open Water Foundation ##
 
-The [Open Water Foundation](http://openwaterfoundation.org) is a nonprofit social enterprise that focuses
+The [Open Water Foundation](https://openwaterfoundation.org) is a nonprofit social enterprise that focuses
 on developing and supporting open source software for water resources,
 so that organizations can make better decisions about water.
 OWF also works to advance open data tools and implementation.
 OWF has created this documentation to educate its staff, collaborators, and clients that use Linux shells.
 
-See also other [OWF learning resources](http://learn.openwaterfoundation.org).
+See also other [OWF learning resources](https://learn.openwaterfoundation.org).
 
 ## How to Use this Documentation ##
 
